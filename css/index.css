@@ -339,28 +339,13 @@ main .top-main .talents .list :nth-child(odd) {
   justify-content: space-around;
   align-items: flex-start;
 }
-.work-history .data1 {
+.work-history .data {
   display: flex;
   justify-content: space-around;
   align-items: lex-start;
   background: #f4f4f4;
 }
-.work-history .data2 {
-  display: flex;
-  justify-content: space-around;
-  align-items: flex-start;
-}
-.work-history .data3 {
-  display: flex;
-  justify-content: space-around;
-  align-items: flex-start;
-  background: #f4f4f4;
-}
-.work-history .data4 {
-  display: flex;
-  justify-content: space-around;
-  align-items: flex-start;
-}
+
 @media (max-width: 500px) {
   .work-history p {
     font-size: 1.3rem;
