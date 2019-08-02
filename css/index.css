@@ -345,7 +345,6 @@ main .top-main .talents .list :nth-child(odd) {
   align-items: lex-start;
   background: #f4f4f4;
 }
-
 @media (max-width: 500px) {
   .work-history p {
     font-size: 1.3rem;
